@@ -13,16 +13,14 @@ submitButton.addEventListener('click', function(event) {
 
 
 
-		
+
 	}else{
-		alert('Oh no it looks like thats an invalid email address! Please tr again.')
+		alert('Oh no it looks like thats an invalid email address! Please try again.')
 	}
-	
+
 })
 
 //selecting html elements
 //attaching 'click' listener
 //getting user entered values
 //javascript validations
-
-
